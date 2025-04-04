@@ -89,4 +89,11 @@
 
 ---
 
-> _"_
+<!-- "THANK YOU" Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B81,100:F8D847&height=200&section=footer&text=THANK%20YOU%20%F0%9F%99%8C&fontSize=35&fontAlignY=40&desc=For%20visiting%20my%20profile!%20Let%27s%20stay%20connected%20%F0%9F%91%8C&descAlignY=60&descAlign=50" />
+</p>
+
+---
+
+> _"_ 
